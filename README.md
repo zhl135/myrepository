@@ -62,4 +62,20 @@ pubg|$19|6
 
 [B站网址](https://www.bilibili.com "点击进入B站")
 
+#### 插入图片
+
+![x.jpg](https://s2.loli.net/2022/07/16/ZwDuhGtFHRBTc9S.jpg)
+
+```c
+#include <stdio.h>
+```
+
+```cpp
+#include <iostream>
+```
+
+```java
+import java.util.Scanner;
+```
+
 
