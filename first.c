@@ -2,8 +2,12 @@
 
 int main() 
 {
-	printf("the first");
+	
 
 	while(1);
+	
+
+
+	printf("the first changed\n");
 	return 0;
 }
